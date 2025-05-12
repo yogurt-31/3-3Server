@@ -1,0 +1,14 @@
+D:\Project\DX12\SimpleClient\PizzaServer\bin\Debug\net8.0\PizzaServer.exe
+D:\Project\DX12\SimpleClient\PizzaServer\bin\Debug\net8.0\PizzaServer.deps.json
+D:\Project\DX12\SimpleClient\PizzaServer\bin\Debug\net8.0\PizzaServer.runtimeconfig.json
+D:\Project\DX12\SimpleClient\PizzaServer\bin\Debug\net8.0\PizzaServer.dll
+D:\Project\DX12\SimpleClient\PizzaServer\bin\Debug\net8.0\PizzaServer.pdb
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\PizzaServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\PizzaServer.AssemblyInfoInputs.cache
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\PizzaServer.AssemblyInfo.cs
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\PizzaServer.csproj.CoreCompileInputs.cache
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\PizzaServer.dll
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\refint\PizzaServer.dll
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\PizzaServer.pdb
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\PizzaServer.genruntimeconfig.cache
+D:\Project\DX12\SimpleClient\PizzaServer\obj\Debug\net8.0\ref\PizzaServer.dll

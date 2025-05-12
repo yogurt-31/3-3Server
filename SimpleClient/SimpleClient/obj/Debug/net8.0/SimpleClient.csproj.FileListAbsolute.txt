@@ -1,0 +1,14 @@
+D:\Project\DX12\SimpleClient\SimpleClient\bin\Debug\net8.0\SimpleClient.exe
+D:\Project\DX12\SimpleClient\SimpleClient\bin\Debug\net8.0\SimpleClient.deps.json
+D:\Project\DX12\SimpleClient\SimpleClient\bin\Debug\net8.0\SimpleClient.runtimeconfig.json
+D:\Project\DX12\SimpleClient\SimpleClient\bin\Debug\net8.0\SimpleClient.dll
+D:\Project\DX12\SimpleClient\SimpleClient\bin\Debug\net8.0\SimpleClient.pdb
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\SimpleClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\SimpleClient.AssemblyInfoInputs.cache
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\SimpleClient.AssemblyInfo.cs
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\SimpleClient.csproj.CoreCompileInputs.cache
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\SimpleClient.dll
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\refint\SimpleClient.dll
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\SimpleClient.pdb
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\SimpleClient.genruntimeconfig.cache
+D:\Project\DX12\SimpleClient\SimpleClient\obj\Debug\net8.0\ref\SimpleClient.dll
