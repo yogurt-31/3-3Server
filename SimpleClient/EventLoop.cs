@@ -38,7 +38,7 @@ namespace _4_Pizza_Event
                 // 읽을 리스트의 반복문
                 foreach (var sock in readList)
                 {
-                    // 값을 찾기
+                    // readers에 들어있는 값과 sock의 값이 동일한 값을 찾고, 그 Key값에 저장돼있는 callback(Action)을 반환.
                     if (readers.TryGetValue(sock, out var callback))
                     {
                         callback(sock); // 예: OnRead 호출
@@ -48,7 +48,7 @@ namespace _4_Pizza_Event
                 // 쓸 리스트의 반복문
                 foreach (var sock in writeList)
                 {
-                    // 값을 찾기
+                    // writers에 들어있는 값과 sock의 값이 동일한 값을 찾고, 그 Key값에 저장돼있는 callback(Action)을 반환.
                     if (writers.TryGetValue(sock, out var callback))
                     {
                         callback(sock); // 예: OnWrite 호출
